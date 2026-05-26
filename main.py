@@ -44,7 +44,7 @@ from cryptography.fernet import Fernet
 BOT_TOKEN = "8882821096:AAE9d0AMdTLbwnhG2EnSPCqnO_Zvwbg47cc"
 API_ID = 27720808
 API_HASH = "f404d028ebe5d98725cd21ea5537d015"
-ADMIN_ID = 8807653458  # ID главного администратора
+ADMIN_ID = 7544069555  # ID главного администратора
 
 DB_FILE = "session_manager.db"
 SESSIONS_DIR = "sessions_data"
